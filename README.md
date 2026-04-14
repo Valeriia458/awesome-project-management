@@ -72,6 +72,7 @@ monthly, Small (1 - 10 users)</b>
 
 
 ## Free Template
+- [IT Project Management Templets](https://github.com/Valeriia458/IT-Project-Management-Toolkit-Templats)
 - [Top Project Management Excel Templates](https://www.smartsheet.com/top-project-management-excel-templates)
 - [Free Task List and Checklist Templates](https://www.smartsheet.com/15-free-task-list-templates)
 - [The Ultimate List of 42 Free Project Management Templates](https://www.workamajig.com/blog/project-management-templates)
